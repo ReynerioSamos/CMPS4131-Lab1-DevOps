@@ -1,0 +1,24 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReynerioSamos/CMPS4131-Lab1-DevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReynerioSamos/CMPS4131-Lab1-DevOps/issues"
+  },
+  "homepage": "https://github.com/ReynerioSamos/CMPS4131-Lab1-DevOps#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
